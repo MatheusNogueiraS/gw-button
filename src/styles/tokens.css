@@ -1,0 +1,36 @@
+:root {
+  /* brand */
+  --brand-primary-surface: #fa6300;
+  --brand-secondary-surface: #462a71;
+
+  /* ctas e links */
+  --cta-primary-interactive-hover: #993d00;
+  --cta-secondary-interactive: #462a71;
+  --cta-secondary-interactive-hover: #e9e5ee;
+  --cta-neutral-interactive: #ffffff;
+
+  /* text / background */
+  --text-neutral-text-high: #ffffff;
+  --text-neutral-text-disabled: #868d98;
+  --background-neutral-surface: #ffffff;
+  --background-neutral-surface-disabled: #dee0e3;
+
+  /* focus */
+  --focus-ring: #000afa;
+
+  /* spacing */
+  --space-md-8: 8px;
+  --space-xl-16: 16px;
+  --space-2xl-24: 24px;
+
+  /* sizing / radius */
+  --sizing-interactive-sm: 32px;
+  --sizing-interactive-md: 48px;
+  --sizing-interactive-lg: 56px;
+  --button-pill: 999px;
+  --button-link-radius: 4px;
+
+  /* typography */
+  --font-desktop: 'Montserrat', system-ui, sans-serif;
+  --font-mobile: 'Lato', system-ui, sans-serif;
+}
